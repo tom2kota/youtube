@@ -5,7 +5,7 @@
 // API key restrictions *.localhost:3000/*
 import axios from 'axios';
 
-const KEY = '${{secrets.MY_SECRET_YOUTUBE_KEY}}';
+const KEY = ${{secrets.MY_SECRET_YOUTUBE_KEY}};
 
 const axiosObject = axios.create({
         baseURL: 'https://www.googleapis.com/youtube/v3',
