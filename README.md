@@ -13,7 +13,7 @@ YouTube Video Player - React App
 
 ---
 
-[API Key Limits](https://console.developers.google.com/apis/credentials/):
+ YouTube Data API v3 [API Key Limits](https://console.developers.google.com/apis/credentials/):
 
 ```
    *.localhost:3000/* 
