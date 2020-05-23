@@ -22,4 +22,4 @@ YouTube Video Player - React App
    https://tom2kota.github.io/youtube/*
 ```
 
-[IFrame Player API paremeters](https://developers.google.com/youtube/player_parameters)
+[IFrame Player API parameters](https://developers.google.com/youtube/player_parameters)
