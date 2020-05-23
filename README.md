@@ -13,9 +13,12 @@ YouTube Video Player - React App
 
 ---
 
+#### [YouTube Data API v3 => (TURN ON)](https://console.developers.google.com/apis/library/youtube.googleapis.com)
+
  YouTube Data API v3 [API Key Limits](https://console.developers.google.com/apis/credentials/):
 
 ```
    *.localhost:3000/* 
    https://tom2kota.github.io/youtube/*
 ```
+
